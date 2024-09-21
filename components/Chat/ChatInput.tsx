@@ -547,7 +547,7 @@ export const ChatInput = ({
                     rel="noreferrer"
                     className="underline"
                 >
-                    chatbot-ui
+                    Samuel's Chatbot
                 </a>
             </div>
         </div>
